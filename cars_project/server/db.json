@@ -1,0 +1,138 @@
+{
+    "drivers": [
+        {
+            "id": 1,
+            "name": "Ivan",
+            "phone_number": 380502341323
+        },
+        {
+            "id": 2,
+            "name": "Alex",
+            "phone_number": 380738915323
+        },
+        {
+            "id": 3,
+            "name": "Sem",
+            "phone_number": 380667341323
+        },
+        {
+            "id": 4,
+            "name": "Alan",
+            "phone_number": 380638594503
+        },
+        {
+            "id": 5,
+            "name": "Max",
+            "phone_number": 380995798572
+        },
+        {
+            "id": 6,
+            "name": "Matt",
+            "phone_number": 380506704963
+        },
+        {
+            "id": 7,
+            "name": "Stew",
+            "phone_number": 380979378593
+        },
+        {
+            "id": 8,
+            "name": "Jhon",
+            "phone_number": 380780937502
+        },
+        {
+            "id": 9,
+            "name": "Bob",
+            "phone_number": 380502341389
+        },
+        {
+            "id": 10,
+            "name": "Leon",
+            "phone_number": 380738918903
+        },
+        {
+            "id": 11,
+            "name": "Bread",
+            "phone_number": 380556898964
+        },
+        {
+            "id": 12,
+            "name": "Olim",
+            "phone_number": 380797589467
+        }
+
+    ],
+
+    "cars": [
+        {
+            "id": 1,
+            "brand": "BMW",
+            "number": "AA123457",
+            "colour": "blue",
+            "type": "sedan"
+        },
+        {
+            "id": 2,
+            "brand": "Sitroen",
+            "number": "AR683457",
+            "colour": "white",
+            "type": "coupe"
+        },
+        {
+            "id": 3,
+            "brand": "Volkswagen",
+            "number": "TO758347",
+            "colour": "black",
+            "type": "hatchback"
+        },
+        {
+            "id": 4,
+            "brand": "Chevrolet",
+            "number": "MK783457",
+            "colour": "grey",
+            "type": "minivan"
+        },
+        {
+            "id": 5,
+            "brand": "Daweoo",
+            "number": "HJ768543",
+            "colour": "white",
+            "type": "sedan"
+        },
+        {
+            "id": 6,
+            "brand": "BMW",
+            "number": "AK428457",
+            "colour": "black",
+            "type": "minivan"
+        },
+        {
+            "id": 7,
+            "brand": "Mitsubishi",
+            "number": "AS673457",
+            "colour": "brown",
+            "type": "sedan"
+        },
+        {
+            "id": 8,
+            "brand": "Mersedes",
+            "number": "NC768437",
+            "colour": "red",
+            "type": "coupe"
+        },
+        {
+            "id": 9,
+            "brand": "Crysler",
+            "number": "GN799457",
+            "colour": "blue",
+            "type": "sedan"
+        },
+        {
+            "id": 10,
+            "brand": "BMW",
+            "number": "AJ783257",
+            "colour": "grey",
+            "type": "minivan"
+        }
+    ]
+}
